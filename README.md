@@ -1,2 +1,2 @@
 # helloworld
-EffectiveDevOps Pipeline Example 
+EffectiveDevOps Pipeline Example
