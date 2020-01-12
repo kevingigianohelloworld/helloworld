@@ -1,0 +1,22 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "EffectiveDevOps Pipeline Example",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevingigianohelloworld/helloworld.git"
+  },
+  "author": "Kevin Gigiano",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/kevingigianohelloworld/helloworld/issues"
+  },
+  "devDependencies": {
+    "mocha": "~2.5.3",
+    "zombie": "~3.0.15"
+  }
+}
